@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+*.wav
+!dummy_real.wav
+!dummy_fake.wav
+.vscode/
+.idea/
+
+ffmpeg-master-latest-win64-gpl/
+ffmpeg.exe
+aasist_repo/login_system/.env
+aasist_repo/login_system/users.db
+__pycache__/
+*.pyc
